@@ -1,0 +1,2 @@
+# mycode
+just for learning
